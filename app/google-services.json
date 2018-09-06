@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "871286179046",
+    "firebase_url": "https://del-boy-5bc20.firebaseio.com",
+    "project_id": "del-boy-5bc20",
+    "storage_bucket": "del-boy-5bc20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871286179046:android:abe230b6f20609ed",
+        "android_client_info": {
+          "package_name": "com.example.nilogithan.delboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871286179046-aet6ej7ae78j3ci68q6qqr5mv3tt7e2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nilogithan.delboy",
+            "certificate_hash": "56aa074d3362865ac0c3d54db660edc6d76a8899"
+          }
+        },
+        {
+          "client_id": "871286179046-shg6i3rd00nl6m2elvumvov8lilk2l2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTHh8BZEAxne9pQxa7j623cEOyuofBjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871286179046-shg6i3rd00nl6m2elvumvov8lilk2l2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
